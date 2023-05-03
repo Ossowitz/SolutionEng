@@ -100,3 +100,19 @@
 98 | появляться | appear
 99 | происходить | happen
 100 | тратить | spend
+101 | хорошо | well
+102 | произошёл | occured
+103 | означать | mean
+104 | искать | find
+105 | мысль | though
+106 | последовательный | sequential
+107 | в срок | on time
+108 | детали | details
+109 | устроить | arrange
+110 | забыть | forget
+111 | обида | resentment
+112 | разрешать | allow
+113 | вокзал | railway station
+114 | очевидный | obvious
+115 | продвигать | promote
+116 | наступать, продвигаться | advance
